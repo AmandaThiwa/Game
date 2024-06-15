@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Game</string>
+    <string name="textView">LEADERBOARD</string>
+    <string name="textView2">High Score</string>
+    <string name="button6">Exite</string>
+    <string name="button3">High Score</string>
+    <string name="button">Start Game</string>
+    <string name="button2">Exite</string>
+</resources>
